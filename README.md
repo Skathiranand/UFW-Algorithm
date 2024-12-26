@@ -4,7 +4,7 @@ The UFW Management Tool is a simple graphical user interface (GUI) application b
 
 ## Technology used
 
-[![My Skills](https://skillicons.dev/icons?i=py,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,ubuntu&theme=dark)](https://skillicons.dev)
 ## Features
 Check the current status of UFW.
 
